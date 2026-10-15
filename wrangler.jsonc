@@ -1,0 +1,10 @@
+{
+  "name": "mcp-key2oauth-anne",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-04-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "kv_namespaces": [
+    { "binding": "OAUTH_KV", "id": "2dfc27f453bc4901a506342677e37b7c" },
+    { "binding": "SLUG_KV", "id": "4851998bba3e4e6dbf41b4de0a215e18" }
+  ]
+}
